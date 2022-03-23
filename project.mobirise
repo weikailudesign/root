@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "weikailudesign",
-    "currentPage": "page18.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "24nsewb9zr"
   },
   "pages": {
